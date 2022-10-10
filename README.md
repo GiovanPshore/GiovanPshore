@@ -14,7 +14,6 @@
   <img align="center" alt="Giovan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giovan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Giovan-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="right" alt="Giovan-pic" height="120" style="border-radius:50px;" src="https://i.pinimg.com/474x/67/73/fa/6773faf063482c02a0cb8cdae4ef2074.jpg">
 </div>
 
 ##
