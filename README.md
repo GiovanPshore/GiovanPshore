@@ -1,8 +1,8 @@
 ### Oi, me chamo Giovan Oliveira, segue algumas informações sobre mim.
 
-- 🔭 Estou me aperfeiçoando em front-end com react.
-- 🌱 Estudando: Javascript, React, Html,Css
-- 💬 Sobre mim: Participei de um programa de residencia de software, trabalhei como dev jr mobible com react native, tenho conhecimentos em mysql, javascript, react, react native, html, css, e estou em busca de estagio ou trainer como desenvolvedor.
+- 🔭 Estou me aperfeiçoando em Uipath e Python.
+- 🌱 Estudando: Uipath, Python
+- 💬 Sobre mim: Participei de um programa de residencia de software, trabalhei como dev jr mobible com react native e estagiario de RPA com uipath, tenho conhecimentos em mysql, javascript, react, react native, html, css, Uipath e power automate.
 <div align="center">
 <a href="https://github.com/GiovanPshore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanPshore&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
